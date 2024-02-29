@@ -11,6 +11,7 @@
 <div align="center">
   <a href="">Our work</a> —
   <a href="">UnrealEstate case</a> —
+  [shrinkkat](https://github.com/meerkat-collective/shrinkat)
   <a href="">Dropsy case</a> —
 
   <a href="">Discord</a>
