@@ -10,11 +10,11 @@
   
 <div align="center">
   <a href="">Our work</a> —
-  <a href="">UnrealEstate case</a> —
-  [shrinkkat](https://github.com/meerkat-collective/shrinkat)
-  <a href="">Dropsy case</a> —
+<!--   <a href="">UnrealEstate case</a> — -->
+  <a href="https://github.com/meerkat-collective/shrinkat">shrinkat</a> - 
+<!--   <a href="">Dropsy case</a> — -->
 
-  <a href="">Discord</a>
+  <a href="https://discord.gg/mQaYpwMd">Discord</a>
 </div>
 <h3 align="center">
 <a href=""><i>Get involved!</i></a>
