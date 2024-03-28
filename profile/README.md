@@ -5,14 +5,19 @@
 
 <p align="center">
 <h1 align="center">We are a group of meerkats dedicated to accomplishing a varied array of tasks</h1>
-
 </p>
-  
-<div align="center">
-  <a href="">Our work</a> —
-<!--   <a href="">UnrealEstate case</a> — -->
-  <a href="https://github.com/meerkat-collective/shrinkat">shrinkat</a> - 
-<!--   <a href="">Dropsy case</a> — -->
+
+
+<h3 align="center">
+<a href="">Our work</a>
+</h3>
+
+<div align="center"> 
+ <a href="">Class Management</a> — 
+  <a href="https://github.com/meerkat-collective/shrinkat">shrinkat</a>
+
+<br/>
+ 
 
   <a href="https://discord.gg/mQaYpwMd">Discord</a>
 </div>
